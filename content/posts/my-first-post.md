@@ -3,7 +3,7 @@ title: "My First Post"
 date: 2020-10-07T07:57:23Z
 draft: false
 toc: true
-asciinema: true
+#asciinema: true
 images:
 tags:
   - ceph
@@ -27,7 +27,7 @@ osdmap e523 pool 'test-pool' (15) object 'open.repo' -> pg 15.44fb73c5 (15.5) ->
 {{< image src="/images/test.png" >}}
 
 
-{{< asciinema key="lab.cast" rows="10" preload="1" >}}
+{{% asciinema id="LBjCVroyd5Y8LYnyrDLpm6Fgd" %}}
 
 
 
